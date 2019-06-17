@@ -1,0 +1,28 @@
+{
+  "name": "@skyux/auth-client-factory",
+  "version": "1.0.0",
+  "description": "Provides methods for overriding a SPA's auth-client reference with a global reference.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackbaud/skyux-auth-client-factory.git"
+  },
+  "author": "Blackbaud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackbaud/skyux-auth-client-factory/issues"
+  },
+  "homepage": "https://github.com/blackbaud/skyux-auth-client-factory#readme",
+  "peerDependencies": {
+    "@blackbaud/auth-client": "^2.12.0",
+    "typescript": "^3.2.4"
+  },
+  "devDependencies": {
+    "@blackbaud/auth-client": "2.12.0",
+    "tslint": "5.15.0",
+    "typescript": "3.2.4"
+  }
+}
