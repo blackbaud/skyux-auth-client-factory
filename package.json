@@ -4,7 +4,7 @@
   "description": "Provides methods for overriding a SPA's auth-client reference with a global reference.",
   "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
