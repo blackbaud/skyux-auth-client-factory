@@ -46,3 +46,6 @@ yarn.lock
 *.iml
 *.ipr
 *.iws
+
+# Build directory
+dist
