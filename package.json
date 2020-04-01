@@ -21,8 +21,7 @@
   },
   "homepage": "https://github.com/blackbaud/skyux-auth-client-factory#readme",
   "peerDependencies": {
-    "@blackbaud/auth-client": "^2.12.0",
-    "typescript": "^3.2.4"
+    "@blackbaud/auth-client": "^2.12.0"
   },
   "devDependencies": {
     "@blackbaud/auth-client": "2.17.2",
