@@ -1,6 +1,6 @@
 {
   "name": "@skyux/auth-client-factory",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Provides methods for overriding a SPA's auth-client reference with a global reference.",
   "main": "dist/index.js",
   "module": "dist/index.js",
