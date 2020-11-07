@@ -10,6 +10,9 @@ function getGlobal(name: string): any {
   return windowRef.BBAuthClient && windowRef.BBAuthClient[name];
 }
 
+/**
+ * @dynamic
+ */
 export class BBAuthClientFactory {
 
   public static get BBAuth(): typeof BBAuth {

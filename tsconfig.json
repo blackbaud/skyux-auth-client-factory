@@ -1,19 +1,9 @@
 {
+  "extends": "./node_modules/@skyux-sdk/builder/tsconfig",
   "compilerOptions": {
-    "declaration": true,
-    "module": "commonjs",
-    "target": "es5",
-    "noImplicitAny": true,
-    "noUnusedLocals": true,
-    "sourceMap": true,
-    "lib": [
-      "dom",
-      "es6"
-    ],
-    "outDir": "dist"
+    "module": "commonjs"
   },
   "exclude": [
-    "node_modules",
-    "**/*.spec.ts"
+    "node_modules"
   ]
 }
